@@ -4,3 +4,5 @@ int main()
 {
   cout<<"My first git";
 }
+
+my code is right
