@@ -1,2 +1,7 @@
-Hi my first program
- i do not do html prog.
+<html>
+<head>
+<title>Website</title>
+</head>
+<p>welcome to github</p>
+</html>
+>>>>>>> 48a321c84ff34d77e950357830c2ce234a4cf8b7
