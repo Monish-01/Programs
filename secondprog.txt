@@ -3,6 +3,5 @@
 int main()
 {
   cout<<"My first git";
+  return 0;
 }
-
-my code is right
